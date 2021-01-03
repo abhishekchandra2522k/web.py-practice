@@ -1,6 +1,5 @@
 import web
 
-# this is a regex code
 urls = (
     '/(.*)/(.*)', 'index'
 )
