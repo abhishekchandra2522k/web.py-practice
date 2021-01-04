@@ -1,1 +1,3 @@
-# web.py-project
+# web.py-practice
+
+![](output.png)
